@@ -1,0 +1,5 @@
+DPS  Rango
+
+1)[Nombre de habilidad] Daño fisico de impacto directo
+2)[Nombre de habilidad] Invocacion de daño leve y probabilidad de aura de corto periodo
+3)[Marca de Cazador] El objetivo recibe daño aumentado de todas las fuentes

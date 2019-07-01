@@ -1,0 +1,5 @@
+Curador de apoyo
+
+1)[Nombre de habilidad] Beneficios (Aumento de daño, absorcion de daño, limpiar y auras de unico objetivo)
+2)[Nombre de habilidad] Curas de potencia leve
+3)[Sanacion en cadena] Una cura que rebota entre los aliados, cura menos en cada rebote

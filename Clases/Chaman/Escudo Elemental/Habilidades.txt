@@ -1,0 +1,5 @@
+Tanque de beneficios
+
+1)[Nombre de habilidad] Esquiva, para o bloquea Todo o casi todo el daño hacia el
+2)[Nombre de habilidad] Armadura de malla que provee leve reduccion de daño
+3)[Reencarnar] El personaje revive en combate

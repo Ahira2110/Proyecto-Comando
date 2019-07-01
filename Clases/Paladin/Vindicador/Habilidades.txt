@@ -1,0 +1,5 @@
+Tanque pesado
+
+1)[Nombre de habilidad] Armadura pesada y escudo que reduce el daño recibido
+2)[Nombre de habilidad] Probabilidad de Esquivat y bloquear ataques
+3)[Egida de Luz] Temporalmente obtiene completa inmunidad al daño 

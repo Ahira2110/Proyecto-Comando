@@ -1,0 +1,5 @@
+Daño melee
+
+1)[Nombre de habilidad] Daño fisico de impacto directo
+2)[Nombre de habilidad] Beneficio a aliados, maleficios a enemigo
+3)[Temerario] Duplica tanto el daño realizado como el recibido

@@ -1,0 +1,5 @@
+Curador de combate
+
+1)[Nombre de habilidad] Daño fisico directo que cura a los aliados
+2)[Nombre de habilidad] Leves beneficios persistente para todos los aliados
+3)[Inquisicion] Todos los aliados obtienen robo de vida
