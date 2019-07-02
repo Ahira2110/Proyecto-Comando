@@ -3,3 +3,13 @@ Curador de apoyo
 1)[Nombre de habilidad] Beneficios (Aumento de daño, absorcion de daño, limpiar y auras de unico objetivo)
 2)[Nombre de habilidad] Curas de potencia leve
 3)[Resurrecion] Revive a un aliado en combate
+
+visto por: Ahira
+
+modificacion Ahira:
+
+(sin basico) pasiva: con cada uso de ahabilidad hay probabilidad de dejan una cura en tiempo(probabiliadad media)
+
+1)[Nombre de habilidad] Beneficios (Aumento de daño, absorcion de daño, limpiar y auras de unico objetivo)
+2)[Nombre de habilidad] Curas de potencia leve
+3)[Resurrecion] Revive a un aliado en combate

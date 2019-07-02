@@ -3,3 +3,19 @@ Tanque de beneficios
 1)[Nombre de habilidad] Esquiva, para o bloquea Todo o casi todo el daño hacia el
 2)[Nombre de habilidad] Armadura de malla que provee leve reduccion de daño
 3)[Reencarnar] El personaje revive en combate
+
+visto por: Ahira
+
+modificacion ahira:
+
+Ataque basico: Daño de ataque (aqui quizas algunos tankes peguen un poco mas para balancear) con coste de agro medio.
+
+
+
+1)[Nombre de habilidad] Aumenta su probabilida de parar, esquivar, etc. (Yo creo que mejor seria q el esquive y toda esa
+                        wea sean atributos pasivos de todos los personajes, los dps quizas no tengan ese atributo directamente
+                        y al momento de la batalla cuando son atacados tiraran dados para reducir o denegar el daño)
+2)[Nombre de habilidad] Armadura de malla que provee leve reduccion de daño(Armadura de malla pasiva)
+nuevo 2)[Nombre de habilidad] reduccion de agro a un aliado
+posible 2) [Nombre de habilidad] tira un bufo a un alidado que mientras mas daño hace mas esquive y eso tiene el tanke
+3)[Reencarnar] El personaje revive en combate

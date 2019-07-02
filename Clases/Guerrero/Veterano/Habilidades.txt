@@ -3,3 +3,16 @@ Tanque de aguante
 1)[Nombre de habilidad] Estamina enormemente aumentada 
 2)[Nombre de habilidad] Armadura de malla que provee leve reduccion de daño
 3)[Cota de espinas] Regresa un porcentaje del daño recibido en un periodo de tiempo
+
+visto por: Ahira
+
+Modificacion ahira:
+
+Ataque basico: daño de ataque bajo con coste de agro alto
+
+(estamina y armor de malla habilidades pasivas, ver ejemplo de baluarte
+
+1)[Nombre de habilidad] provocacion, bufea a un aliado para q en caso de que lo ataquen redirija el ataque al tanke o si ya es foco
+se lo quita al agro y lo baja X puntos
+2)[Nombre de habilidad] carga contra el enemigo inflingiendo daño y provocandolo
+3)[Cota de espinas] Regresa un porcentaje del daño recibido en un periodo de tiempo

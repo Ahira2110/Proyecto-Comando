@@ -3,3 +3,14 @@ DPS Rango
 1)[Nombre de habilidad] Daño magico de impacto directo
 2)[Nombre de habilidad] Invocacion de daño periodico
 3)[Tromba Arcana] Multiples ataques magico de impacto directo contra un solo objetivo
+
+visto por: Ahira
+
+modificacion ahira:
+
+ataque basico: daño de ataque bajo con coste de agro bajo (quizas con alguna probabilidad de algun buf aliado o debuf enemigo)
+
+
+1)[Nombre de habilidad] Daño magico grande de impacto directo
+2)[Nombre de habilidad] Invocacion de daño periodico
+3)[Tromba Arcana] Multiples ataques magico de impacto directo contra un solo objetivo

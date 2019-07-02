@@ -3,3 +3,15 @@ DPS  Rango
 1)[Nombre de habilidad] Daño fisico de impacto directo
 2)[Nombre de habilidad] Invocacion de daño leve y probabilidad de aura de corto periodo
 3)[Marca de Cazador] El objetivo recibe daño aumentado de todas las fuentes
+
+leido por: Ahira
+
+
+Modificacion Ahira:
+
+Ataque basico: ataque medio con medio coste de que agro minimo (para los rangos sera menos daño ya q las 
+               habilidades pegaran mucho mas)
+
+1)[Nombre de habilidad] Daño fisico de impacto directo
+2)[Nombre de habilidad] Invocacion de daño en el tiempo por X cantida de turnos y probabilidad de aura de corto periodo
+3)[Marca de Cazador] El objetivo recibe daño aumentado de todas las fuentes

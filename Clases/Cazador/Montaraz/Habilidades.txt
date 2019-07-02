@@ -1,5 +1,7 @@
 Dps Melee
 
-1)[Nombre de habilidad] Daño fisico progresivo}
+Ataque basico: daño medio con coste de agro bajo
+
+1)[Nombre de habilidad] Daño fisico progresivo
 2)[Nombre de habilidad] C C
 3)[Ejecucion] Disparo a quemaropa de daño aumentado

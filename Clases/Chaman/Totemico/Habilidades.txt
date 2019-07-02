@@ -1,5 +1,17 @@
 Curador de apoyo
 
+
+1)[Nombre de habilidad] Beneficios (Aumento de daño, absorcion de daño, limpiar y auras de unico objetivo)
+2)[Nombre de habilidad] Curas de potencia leve
+3)[Sanacion en cadena] Una cura que rebota entre los aliados, cura menos en cada rebote
+
+visto por: Ahira
+
+modificacion Ahira:
+
+(no tiene ataque basico) activar pasiva: potencia la siguiente habilidad (no hero) pero duplica su agro
+Obs: esto lo pongo como para balancear el uso de agro y q sea mas "divertido" este heler y se tenga mas cuidado con el agro
+
 1)[Nombre de habilidad] Beneficios (Aumento de daño, absorcion de daño, limpiar y auras de unico objetivo)
 2)[Nombre de habilidad] Curas de potencia leve
 3)[Sanacion en cadena] Una cura que rebota entre los aliados, cura menos en cada rebote

@@ -1,5 +1,20 @@
 Tanque pesado
 
+
 1)[Nombre de habilidad] Armadura pesada y escudo que reduce el daño recibido
 2)[Nombre de habilidad] Estamina medianamente aumentada 
+3)[Piel ferrea] Gran reduccion de daño recibido temporalmente
+
+visto por: Ahira
+
+modificaciones: Ahira
+
+
+Ataque basico: Daño de ataque bajo con coste de agro alto
+
+(estamina y armadura pesada q sean pasivos ej: armadura, obntiene el doble de vida de los objetos)
+
+1)[Nombre de habilidad] reduce agro a un aliado, si es menor a 2. lo inspira levemente (como para q no sea inutil la
+habilidad en los primeros turnos)
+2)[Nombre de habilidad] alzar escudo reduce el daño x procentaje  o aumenta la prob de parar y bloquear 
 3)[Piel ferrea] Gran reduccion de daño recibido temporalmente

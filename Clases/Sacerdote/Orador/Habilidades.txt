@@ -3,3 +3,13 @@ Curador especializado
 1)[Nombre de habilidad] Curacion potente
 2)[Nombre de habilidad] Purifica a los aliados limpiando todas las maldiciones
 3)[Imposicion de manos] Restaura toda la vida de un aliado
+
+visto por: Ahira
+
+modificacion ahira:
+
+(sin ataque basico) escudo, lanza un escudo a un aliado con probabilidad de media de no castearlo
+
+1)[Nombre de habilidad] Curacion potente
+2)[Nombre de habilidad] Purifica a los aliados limpiando todas las maldiciones
+3)[Imposicion de manos] Restaura toda la vida de un aliado

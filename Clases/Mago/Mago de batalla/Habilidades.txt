@@ -3,3 +3,16 @@ DPS Melee
 1)[Nombre de habilidad] C.C.
 2)[Nombre de habilidad] Leve daño hibrido de impacto directo
 3)[Torrente Arcano] Silencia a los enemigos cercanos temporalmente
+
+visto por: Ahira
+
+modificacion Ahira:
+
+ataque basico: daño de ataque medio con coste de agro medio
+
+pasivo: daño hibrido su daño es magico y fisico
+
+
+1)[Nombre de habilidad] C.C.
+2)[Nombre de habilidad] imbuir arma provocanco que los basicos en X turnos tengan prob o hagan daño extra o en tiempo
+3)[Torrente Arcano] Silencia a los enemigos cercanos temporalmente

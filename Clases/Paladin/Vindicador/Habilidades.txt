@@ -3,3 +3,13 @@ Tanque pesado
 1)[Nombre de habilidad] Armadura pesada y escudo que reduce el daño recibido
 2)[Nombre de habilidad] Probabilidad de Esquivat y bloquear ataques
 3)[Egida de Luz] Temporalmente obtiene completa inmunidad al daño 
+
+visto por: Ahira
+
+ataque basico: daño de ataque bajo con probabilidad de daño en tiempo medio
+
+armadura aumentada y bloque pasivos aumentados
+
+1)[Nombre de habilidad] escudo de luz, levanta el escudo protegiendo a un aliado de los x siguientes ataques
+2)[Nombre de habilidad] consagrar provoca daño en los enemigos x puntos y provocando mucho agro
+3)[Egida de Luz] Temporalmente obtiene completa inmunidad al daño 

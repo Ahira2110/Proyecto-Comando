@@ -3,3 +3,16 @@ Curador de combate
 1)[Nombre de habilidad] Daño fisico directo que cura a los aliados
 2)[Nombre de habilidad] Leves beneficios persistente para todos los aliados
 3)[Inquisicion] Todos los aliados obtienen robo de vida
+
+visto por: Ahira
+
+modificaciones Ahira:
+
+Ataque basico: daño de ataque leve con coste de agro bajo que tiene prob de curar a un aliado poco
+
+pasiva: maestria en auras, tiene auras pasivas que con  habilidad 2 se pueden cambiar
+Ej: aura 1: aumenta levemente el daño de todos , cuando se activa el aura ese daño es el doble
+
+1)[Nombre de habilidad] Daño fisico directo que cura a los aliados
+2)[Nombre de habilidad] cambio de aura, cuando se cambia de aura cada una tiene un beneficio extra cuando se activan
+3)[Inquisicion] Todos los aliados obtienen robo de vida

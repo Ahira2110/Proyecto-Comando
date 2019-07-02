@@ -1,5 +1,18 @@
 DPS Rango
 
+
 1)[Nombre de habilidad] Invocaciones de daño magico progresivo 
 2)[Nombre de habilidad] Daño directo con CD alto
 3)[Ansias de Sangre] los siguientes turnos de los aliados son dobles (????)
+
+
+Visto por: Ahira
+
+modificacion Ahira:
+
+Ataque Basico: Daño de ataque bajo con coste de agro bajo
+
+1)[Nombre de habilidad] Invocaciones de daño magico progresivo 
+2)[Nombre de habilidad] Daño directo con CD alto
+3)[Ansias de Sangre] Los siguientes X turnos los aliados atacaran 3 veces cada 2 turnos (sujeto a como sera el 
+                     sistema de turnos) 
